@@ -5,7 +5,7 @@ export default function HomePage() {
     <main className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-indigo-600 to-purple-600 text-white px-4">
       <div className="max-w-2xl text-center">
         <h1 className="text-5xl md:text-6xl font-extrabold mb-6 drop-shadow-lg">
-          Benvenuto nel tuo nuovo sito Next.js 🚀
+          Benvenuto nel sito Next.jsdi TEST di TwoTeam 🚀
         </h1>
         <p className="text-xl md:text-2xl mb-8 text-white/90">
           Questa è la tua pagina iniziale, elegante, moderna e pronta per stupire!
