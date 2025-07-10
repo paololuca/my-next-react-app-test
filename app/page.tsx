@@ -10,12 +10,6 @@ export default function HomePage() {
         <p className="text-xl md:text-2xl mb-8 text-white/90">
           Questa è la tua pagina iniziale, elegante, moderna e pronta per stupire!
         </p>
-        <a
-          href="/about"
-          className="inline-block bg-white text-indigo-700 font-semibold px-6 py-3 rounded-full shadow-md hover:bg-gray-100 transition duration-300"
-        >
-          Scopri di più
-        </a>
       </div>
 
       <div className="mt-16 w-full max-w-md">
